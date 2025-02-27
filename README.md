@@ -3,7 +3,7 @@
 # 👋 Olá! Eu sou Fernando Moreira  
 
 💻 **Engenheiro da Software | Desenvolvedor de Sistemas Web e Mobile**  
-🎯 Especializado em **Php, Laravel, Vuejs, JavaScript, Html, Css, PostgreSQL e MySQL**  
+🎯 Especializado em **Php, Laravel, JavaScript, Vuejs, Jquery, Ajax, Html, Css, PostgreSQL, MySQL, SqlServer**  
 🚀 Apaixonado por tecnologia e desenvolvimento de sistemas!  
 
 ---
