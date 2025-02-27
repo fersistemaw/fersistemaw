@@ -1,16 +1,15 @@
-## Hi there 👋
-
+## Portfolio WebDesigner 👋
 
 # 👋 Olá! Eu sou Fernando Moreira  
 
-💻 **Engenheiro da Computação | Desenvolvedor Web e Mobile**  
-🎯 Especializado em **Php, laravel, Vuejs, JavaScript, Html, css, PostgreSQL e MySQL**  
+💻 **Engenheiro da Software | Desenvolvedor Web e Mobile**  
+🎯 Especializado em **Php, Laravel, Vuejs, JavaScript, Html, Css, PostgreSQL e MySQL**  
 🚀 Apaixonado por tecnologia e desenvolvimento de sistemas!  
 
 ---
 
 ## 📌 Sobre mim  
-- 🎓 Formado em Engenharia da Computação  
+- 🎓 Pós-Graduado - Engenheiro da Computação - Especialista em Gestão de Projetos
 - 💼 Atualmente buscando oportunidades como Desenvolvedor Full-Stack  
 - 🔥 Experiência com **Front-end, Back-end, APIs e Banco de Dados**  
 - 🎨 Focado em UX/UI e performance  
@@ -19,7 +18,7 @@
 
 ## 🛠️ Tecnologias que utilizo  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS4](https://img.shields.io/badge/CSS4-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS4-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -27,7 +26,7 @@
 
 ---
 
-## 🚀 Meus Projetos  
+## 🚀 Portfólio Web  
 🔗 [Meu Portfólio Profissional](https://fersistemaw.atwebpages.com/portifolioweb.pdf)  
 
 ### 📌 Destaques  
