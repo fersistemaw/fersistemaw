@@ -1,5 +1,4 @@
 ## 💻 Desenvolvedor Full-Stack Web
-## Portfolio Web 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full-Stack apaixonado por tecnologia, desenvolvimento de software e inovação.
 
@@ -60,11 +59,31 @@ Sou um desenvolvedor especializado em criar aplicações web e mobile modernas, 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fersistemaw&show_icons=true&theme=dark)
 
 ## 📫 Contato
-- 📧 E-mail: [fersistemaw@email.com](mailto:fersistemaw@gmail.com)
+- 📧 E-mail: [fersistemaw@email.com](mailto:fersistemaw@gmail.com)  **fersistemaw@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/fersistemaw](https://linkedin.com/in/fersistemaw)
 - 📸 Instagram: [instagram.com.br/fersistemaw](https://instagram.com.br/fersistemaw)
-- ![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png) [instagram.com.br/fersistemaw](https://instagram.com.br/fersistemaw)
-/* - 🐦 Twitter: [twitter.com/seu-usuario](https://twitter.com/seu-usuario) */
-- 🌎 Portfólio: [[www.seuportfolio.com](https://fersistemaw.atwebpagescom/portfolioweb.pdf)](https://fersistemaw.atwebpagescom/portfolioweb.pdf)
+- 🌎 Portfólio Web: [[www.seuportfolio.com](https://fersistemaw.atwebpages.com/portfolioweb.pdf)](https://fersistemaw.atwebpages.com/portfolioweb.pdf)
+- 🔗 [LinkedIn](https://linkedin.com/in/fersistemaw)  
+- 🔗 [GitHub](https://github.com/fersistemaw)  
+
+## 🚀 Portfólio Web  
+🔗 [Meu Portfólio Profissional](https://fersistemaw.atwebpages.com/portifolioweb.pdf)  
+
+### 📌 Destaques  
+🔹 **[Projeto 1](https://github.com/fersistemaw/api-php/)** – API com Php puro e MySQL  
+
+<!--
+**fersistemaw/fersistemaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working with web/mobile system development
+- 🌱 I’m currently learning vue.js
+- 👯 I’m looking to collaborate on php
+- 🤔 I’m looking for help with html responsivo
+- 💬 Ask me about webdesign
+- 📫 How to reach me: 15991253948
+- 😄⚡
+-->
 
 ⚡ Vamos conectar e criar algo incrível juntos!
