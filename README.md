@@ -7,7 +7,7 @@ Sou um desenvolvedor especializado em criar aplicações web e mobile modernas, 
 
 ## 🛠️ Tecnologias & Ferramentas
 ### 🖥️ Front-End
-- HTML5, CSS3 (SASS, LESS, Tailwind CSS)
+- HTML5, CSS3 (SASS, Bootstrap, Tailwind CSS)
 - JavaScript (ES6+), TypeScript
 - React.js, Next.js
 - Vue.js, Nuxt.js
@@ -40,12 +40,12 @@ Sou um desenvolvedor especializado em criar aplicações web e mobile modernas, 
 - Versionamento (Git, GitHub, GitLab, Bitbucket)
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_GITHUB&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fersistemaw&show_icons=true&theme=dark)
 
 ## 📫 Contato
-- 📧 E-mail: [seu@email.com](mailto:seu@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 📧 E-mail: [fersistemaw@email.com](mailto:fersistemaw@email.com)
+- 💼 LinkedIn: [linkedin.com/in/fersistemaw](https://linkedin.com/in/fersistemaw)
 - 🐦 Twitter: [twitter.com/seu-usuario](https://twitter.com/seu-usuario)
-- 🌎 Portfólio: [www.seuportfolio.com](https://www.seuportfolio.com)
+- 🌎 Portfólio: [[www.seuportfolio.com](https://fersistemaw.atwebpagescom/portfolioweb.pdf)](https://fersistemaw.atwebpagescom/portfolioweb.pdf)
 
 ⚡ Vamos conectar e criar algo incrível juntos!
