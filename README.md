@@ -3,14 +3,12 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full-Stack apaixonado por tecnologia, desenvolvimento de software e inovação.
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor especializado em criar aplicações web e mobile modernas, escaláveis e eficientes. Gosto de trabalhar tanto no front-end quanto no back-end, sempre buscando aprimorar a experiência do usuário e a performance das aplicações.
+Desenvolvedor de sistemas especializado em criar aplicações web e mobile modernas, escaláveis e eficientes. Gosto de trabalhar tanto no front-end quanto no back-end, sempre buscando aprimorar a experiência do usuário e a performance das aplicações.
 - 🎓 Pós-Graduado - Engenheiro da Computação - Especialista em Gestão de Projetos
 - 💼 Atualmente buscando oportunidades como Desenvolvedor Full-Stack  
 - 🔥 Experiência com **Front-end, Back-end, APIs e Banco de Dados**  
 - 🎨 Focado em UX/UI e performance
-
 ---
-
 ## 🛠️ Tecnologias que utilizo  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -23,11 +21,8 @@ Sou um desenvolvedor especializado em criar aplicações web e mobile modernas, 
 
 ## 🛠️ Tecnologias & Ferramentas
 ### 🖥️ Front-End
-- HTML5, CSS3 (SASS, Bootstrap, Tailwind CSS)
-- JavaScript (ES6+), TypeScript
-- React.js, Next.js
-- Vue.js, Nuxt.js
-- Redux, Zustand, Context API
+- HTML5, CSS3 (Bootstrap, Tailwind CSS, Material Design)
+- JavaScript (ES6+), Ajax, Vue.js, React.js
 - Webpack, Vite
 
 ### ⚙️ Back-End
@@ -78,11 +73,11 @@ Sou um desenvolvedor especializado em criar aplicações web e mobile modernas, 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with web/mobile system development
-- 🌱 I’m currently learning vue.js
 - 👯 I’m looking to collaborate on php
-- 🤔 I’m looking for help with html responsivo
+- 🌱 I’m currently learning vue.js
+- 🤔 I’m looking for help with html responsive
 - 💬 Ask me about webdesign
-- 📫 How to reach me: 15991253948
+- 📫 How to reach me: 15981823038
 - 😄⚡
 -->
 
