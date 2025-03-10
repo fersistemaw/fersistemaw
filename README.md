@@ -1,6 +1,6 @@
 ## 💻 Desenvolvedor Full-Stack Web
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full-Stack apaixonado por tecnologia, desenvolvimento de software e inovação.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de sistemas, apaixonado por tecnologia, desenvolvimento de software e inovação.
 
 ## 🚀 Sobre Mim
 Desenvolvedor de sistemas especializado em criar aplicações web e mobile modernas, escaláveis e eficientes. Gosto de trabalhar tanto no front-end quanto no back-end, sempre buscando aprimorar a experiência do usuário e a performance das aplicações.
