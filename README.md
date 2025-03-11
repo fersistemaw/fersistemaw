@@ -22,13 +22,11 @@ Desenvolvedor de sistemas especializado em criar aplicações web e mobile moder
 ## 🛠️ Tecnologias & Ferramentas
 ### 🖥️ Front-End
 - HTML5, CSS3 (Bootstrap, Tailwind CSS, Material Design)
-- JavaScript (ES6+), Ajax, Vue.js, React.js
+- JavaScript (ES6+), Vue.js, Ajax, Fetch API, Axios com JSON.,  React.js
 - Webpack, Vite
 
 ### ⚙️ Back-End
-- Node.js (Express, NestJS, Fastify)
-- Python (Django, Flask, FastAPI)
-- Ruby on Rails
+- Node.js (Express, NestJS)
 - PHP (Laravel, Symfony)
 - Java (Spring Boot)
 - C# (.NET Core)
