@@ -63,7 +63,7 @@ Desenvolvedor de sistemas especializado em criar aplicações web e mobile moder
 🔗 [Meu Portfólio Profissional](http://fersistemaw.atwebpages.com/portifolioweb.pdf)  
 
 ### 📌 Destaques  
-🔹 **[Projeto 1](https://github.com/fersistemaw/api-php/)** – API com Php puro e MySQL  
+🔹 **[Projeto](https://github.com/fersistemaw/api-php/)** – API com Php puro e MySQL  
 
 <!--
 **fersistemaw/fersistemaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
