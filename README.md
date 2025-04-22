@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de sistemas, apaixonado 
 ## 🚀 Sobre Mim
 Desenvolvedor de sistemas especializado em criar aplicações web e mobile modernas, escaláveis e eficientes. Gosto de trabalhar tanto no front-end quanto no back-end, sempre buscando aprimorar a experiência do usuário e a performance das aplicações.
 - 🎓 Pós-Graduado - Engenheiro da Computação - Especialista em Gestão de Projetos
-- 💼 Atualmente buscando oportunidades como Desenvolvedor Full-Stack  
+- 💼 Desenvolvedor Full-Stack  | Back-End + Front-End
 - 🔥 Experiência com **Front-end, Back-end, APIs e Banco de Dados**  
 - 🎨 Focado em UX/UI e performance
 ---
